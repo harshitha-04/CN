@@ -37,7 +37,7 @@ def send_move(event):
 
 # Initialize client socket
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server_ip = "192.168.73.166"  # Replace SERVER_IP_ADDRESS with the IP address of the server machine
+server_ip = "192.168.00.000"  # Replace SERVER_IP_ADDRESS with the IP address of the server machine
 server_port = 9993  # Keep the port number consistent with the server
 client_socket.connect((server_ip, server_port))
 
