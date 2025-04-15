@@ -1,5 +1,3 @@
----
-
 # 🗺️ Treasure Hunt Game
 
 This project is a treasure hunt game built using a client-server architecture. The game runs on two separate systems: one for the server and one for the client. The client and server communicate securely over SSL/SSH, allowing players to make treasure hunt moves interactively.
