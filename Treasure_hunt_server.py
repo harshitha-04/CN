@@ -15,7 +15,7 @@ players = {}
 
 # Initialize server socket
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server_socket.bind(('172.20.10.2', 9993))
+server_socket.bind(('172.00.0.0', 9993))
 server_socket.listen()
 
 print(f"Server is listening... Treasure is located at position ({treasure_x}, {treasure_y})")
