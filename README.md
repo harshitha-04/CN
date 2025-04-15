@@ -1,7 +1,3 @@
-Here's the updated **README** with your requested changes:
-
----
-
 # 🗺️ Treasure Hunt Game
 
 This project is a treasure hunt game built using a client-server architecture. The game runs on two separate systems: one for the server and one for the client. The client and server communicate, allowing players to make treasure hunt moves interactively.
@@ -118,6 +114,3 @@ The server randomly chooses a treasure location on a 10x10 grid, while each clie
 - **To Exit the Game:**
   - Type `quit` into the move input area and press Return.
 
----
-
-This should now reflect the correct setup and execution process, without mentioning SSL/SSH. Let me know if you need any further adjustments! 😊
