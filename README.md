@@ -1,5 +1,3 @@
-Below is your updated `README.md` for the Treasure Hunt game:
-
 ---
 
 # 🗺️ Treasure Hunt Game
@@ -103,4 +101,3 @@ Although the project description mentions secure SSL or SSH-based communication 
 
 ---
 
-This README provides a concise guide on setting up, running, and understanding what to expect from both the server and client sides of the Treasure Hunt game. Enjoy the game and good luck finding the treasure!
